@@ -1,0 +1,10 @@
+  881  whoami
+  882  echo $USER
+  883  who
+  884  w
+  885  id
+  886  su
+  887  su tania
+  888  exit
+  889  su - tania
+  890  pwd

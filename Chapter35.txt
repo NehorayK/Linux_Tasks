@@ -1,0 +1,9 @@
+  913  ln winter.txt hlwinter.txt
+  914  ls -li winter.txt summer.txt hlwinter.txt
+  915  ln -s summer.txt slsummer.txt
+  916  find . -inum 2
+  917  ls -lh /etc/init.d
+  918  ls -lh /etc/rc2.d
+  919  ls -lh /etc/rc3.d
+  920  ls -l /lib
+  921  find ~ ! -links 1 -type f

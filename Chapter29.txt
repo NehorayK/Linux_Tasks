@@ -1,0 +1,19 @@
+  915 passwd serena
+  916  passwd venus
+  917  grep venus /etc/shadow | cut -c1-70
+  918  usermod -L venus
+  919  grep venus /etc/shadow | cut -c1-70
+  920  grep serena /etc/shadow | cut -c1-70
+  921  passwd -d serena
+  922  grep serena /etc/shadow
+  923  su serena
+  924  chage -M 10 serena
+  925  vi /etc/login.defs
+  926  29.10.8 Yes she does.
+  927  chsh -l
+  928  cat /etc/shells
+  929  chsh -l
+  930  chsh --l
+  931  29.10.11 -d
+  932  grep serena /etc/shadow
+  933  passwd -S serena

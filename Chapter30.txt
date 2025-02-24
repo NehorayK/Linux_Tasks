@@ -1,0 +1,4 @@
+   28  ls -a ~ ; ls -l /etc/pro* /etc/bash*
+   29  alias
+   30  printenv
+   31  30.9.6 Yes of course

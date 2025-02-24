@@ -1,0 +1,21 @@
+  894  sudo useradd -m -c 'Serena Williams' serena
+  895  useradd -m -c "Venus Williams" -s /bin/bash venus
+  896  sudo useradd -m -c "Venus Williams" -s /bin/bash venus
+  897  sudo tail -5 /etc/passwd
+  898  tail -5 /etc/shadow
+  899  sudo tail -5 /etc/shadow
+  900  sudo tail -5 /etc/group
+  901  ls -lrt /home | tail -5
+  902  sudo useradd -s /bin/date einstime
+  903  su - einstime
+  904  sudo su - einstime
+  905  touch welcome.txt
+  906  rm -rf welcome.txt
+  907  sudo echo Hello > /etc/skel/welcome.txt
+  908  useradd -m test
+  909  ls -l /home/test
+  910  userdel -r test
+  911  userdel test
+  912  grep serena /etc/passwd
+  913  usermod -s /bin/bash serena
+  914  grep serena /etc/passwd

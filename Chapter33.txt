@@ -1,0 +1,38 @@
+  281  mkdir sports_test
+  282  sudo chown :sports sports_test/
+  283  ls -l
+  284  sudo chmod 2770 sports_test/
+  285  ls -l
+  286  cd sports_test/
+  287  touch newfile.txt
+  288  ls -l
+  289  sudo useradd -m -s /bin/bash testSeanTest
+  290  sudo passwd testSeanTest
+  291  id testSeanTest
+  292  su -i testSeantest
+  293  su  testSeantest
+  294  su  testSeanTest
+  295  cd ..
+  296  chmod 2770 sports_test/
+  297  sudo chmod g-w sports_test/
+  298  cd sports_test/
+  299  ls
+  300  ls -l
+  301  rm -r newnewfile.txt 
+  302  ;s
+  303  ls
+  304  ls -l /usr/bin/passwd
+  305  sudo chmod u-s /usr/bin/passwd
+  306  ls -l /usr/bin/passwd
+  307  passwd
+  308  sudo chmod u+s /usr/bin/passwd
+  309  passwd
+  310  ls -l /usr/bin/passwd
+  311  passwd
+  312  ls
+  313  sudo usermod -aG sports testSeanTest
+  314  su seanTestSean
+  315  su testSeanTest
+  316  history
+  317  cd ..
+  318  mkdir tasks_long

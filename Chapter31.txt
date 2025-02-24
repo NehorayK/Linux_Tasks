@@ -1,0 +1,16 @@
+  375  sudo groupadd tennis
+  376  sudo groupadd football
+  377  sudo groupadd sports
+  378  sudo usermod -aG tennis,sports sean
+  379  id 
+  380  sudo groupmod -n foot football
+  381  ls -l
+  382  id
+  383  groups sean
+  384  sudo nano /etc/group
+  385  id
+  386  groups seean
+  387  groups sean
+  388  id sean
+  389  sudo nano /etc/groups
+  390  sudo nano /etc/group

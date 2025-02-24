@@ -1,0 +1,52 @@
+  320  mkdir  ~/permissions
+  321  cd ~/permissions/
+  322  ls
+  323  touch test.txt
+  324  ls
+  325  ls -l
+  326  cp /etc/zsh_command_not_found .
+  327  ls -l
+  328  both of the files are owned by me :)
+  329  ls -l
+  330  chown *
+  331  chown sean *
+  332  sudo chown sean *
+  333  ls -l
+  334  chmod 777 *
+  335  ls -l
+  336  chmod 770 test.txt 
+  337  ls
+  338  ls -l
+  339  7. yes is the same
+  340  chmod 664 test.txt 
+  341  ls -l
+  342  8. no its not the same 
+  343  chmod 400 test.txt 
+  344  ls -l
+  345  9. yes is the same
+  346  chmod 734 test.txt 
+  347  ls -l
+  348  10.No its not the same
+  349  umask
+  350  umask test.txt 
+  351  umask -S
+  352  umask u=rwx,g=,o=
+  353  umask
+  354  sudo touchtouch.txt
+  355  sudo touch touch.txt
+  356  sudo chmod 644 touch.txt
+  357  ls -l
+  358  cat touch.txt 
+  359  nano touch.txt 
+  360  touch touch2.txt
+  361  chmod 644 touch2.txt 
+  362  ls -l
+  363  su testSeanTest
+  364  mkdir groupdir
+  365  ls -l
+  366  sudo chown :sports groupdir/
+  367  ls
+  368  ls -l
+  369  sudo chmod 2770 groupdir/
+  370  ls
+  371  sudo chmod +t groupdir/
