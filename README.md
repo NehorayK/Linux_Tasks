@@ -20,4 +20,6 @@ cd Linux_Tasks
 cat task1.txt
 ```
 
+[Contributors](CONTRIBUTORS.md)
+
 Enjoy!
