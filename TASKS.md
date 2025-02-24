@@ -8,35 +8,35 @@ as mentioned in the [README.md](README.md) the content is based on the [Linux Fu
 
 ### 📝 Chapters Overview
 
-## 📄 [Chapter27.txt](Chapter27.txt) - **Introduction To Users**
+# 📄 [Chapter27.txt](Chapter27.txt) - **Introduction To Users**
 
 ---
 
-## 📄 [Chapter28.txt](Chapter28.txt) - **User Management**
+# 📄 [Chapter28.txt](Chapter28.txt) - **User Management**
 
 ---
 
-## 📄 [Chapter29.txt](Chapter29.txt) - **User Passwords**
+# 📄 [Chapter29.txt](Chapter29.txt) - **User Passwords**
 
 ---
 
-## 📄 [Chapter30.txt](Chapter30.txt) - **User Profiles**
+# 📄 [Chapter30.txt](Chapter30.txt) - **User Profiles**
 
 ---
 
-## 📄 [Chapter31.txt](Chapter31.txt) - **Groups**
+# 📄 [Chapter31.txt](Chapter31.txt) - **Groups**
 
 ---
 
-## 📄 [Chapter32.txt](Chapter32.txt) - **Standard File Permissions**
+# 📄 [Chapter32.txt](Chapter32.txt) - **Standard File Permissions**
 
 ---
 
-## 📄 [Chapter33.txt](Chapter33.txt) - **Advanced File Permissions**
+# 📄 [Chapter33.txt](Chapter33.txt) - **Advanced File Permissions**
 
 ---
 
-## 📄 [Chapter35.txt](Chapter35.txt) - **File Links**
+# 📄 [Chapter35.txt](Chapter35.txt) - **File Links**
 
 ---
 
